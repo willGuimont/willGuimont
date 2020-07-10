@@ -7,8 +7,8 @@
 - Machine learning
 - Programming languages
 
-### Formation
-- Software Engineering Baccalaureate, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
+### Education
+- Bachelor Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ### Experiences
 ##### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer of 2020)

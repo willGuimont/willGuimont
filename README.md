@@ -35,7 +35,7 @@
 ### Volunteering
 - Mentor in a [FIRST](https://www.firstinspires.org/robotics/frc) robotic team at my local secondary school (2015-...)
 
-<details>
+<details id="extras">
   <summary><b>Extras</b></summary>
   <ul>
     <li>btw i use arch</li>

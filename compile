@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+removeExtras() { sed '/<details id="extras">/,/<\/details>/d'; }
+{ echo "\pagenumbering{gobble}"; cat README.md | removeExtras; } | pandoc -o $1

@@ -21,7 +21,7 @@
 - Point cloud processing
 - Domain adaptation
 
-### Virtual and Augmented Research Intern @ [Bentley Systems](https://www.bentley.com/en) (Summer of 2019)
+### Virtual and Augmented Reality Research Intern @ [Bentley Systems](https://www.bentley.com/en) (Summer of 2019)
 <img height="64" width="275" src="https://github.com/willGuimont/willGuimont/blob/master/img/bentley.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/visualstudio.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />

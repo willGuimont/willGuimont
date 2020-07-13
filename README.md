@@ -34,7 +34,7 @@
 <img height="64" width="248" src="https://github.com/willGuimont/willGuimont/blob/master/img/olympus.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/opengl.svg" />
- <img height="32" width="32" src="https://simpleicons.org/icons/visualstudio.svg" /> 
+ <img height="32" width="32" src="https://simpleicons.org/icons/visualstudio.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
 
 - Computer vision
 - Analysis of ultrasound inspection data
@@ -43,7 +43,7 @@
 ### Automation Developper @ [Devoray](https://www.devoray.com/) (Summer of 2015, Winter of 2016 and Winter of 2017)
 <img height="64" width="264" src="https://github.com/willGuimont/willGuimont/blob/master/img/devoray.webp" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
 
 - Computer vision
 - Automation of industrial machines

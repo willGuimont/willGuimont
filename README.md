@@ -49,8 +49,13 @@
 - Automation of industrial machines
 - Programmable logic controller (PLC)
 
+
 ## Volunteering
-- Mentor in a [FIRST](https://www.firstinspires.org/robotics/frc) robotic team at my local secondary school (2015-...)
+### Programming Mentor @ My local secondary school's [FIRST](https://www.firstinspires.org/robotics/frc) robotics team (2015-...)
+<img height="100" width="100" src="https://github.com/willGuimont/willGuimont/blob/master/img/chevaliers.jpg" />
+
+- Teach programming and robotics to secondary school students
+
 
 <details id="extras">
   <summary><b>Extras</b></summary>

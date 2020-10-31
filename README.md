@@ -11,7 +11,7 @@
 - Bachelor Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
-### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer of 2020)
+### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer of 2020-...)
 <img height="64" width="207" src="https://github.com/willGuimont/willGuimont/blob/master/img/norlab.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/vim.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/mendeley.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/googlescholar.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />

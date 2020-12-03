@@ -53,7 +53,7 @@
 ### Programming Mentor @ My local secondary school's [FIRST](https://www.firstinspires.org/robotics/frc) robotics team (2015-...)
 <img height="100" width="100" src="https://github.com/willGuimont/willGuimont/blob/master/img/chevaliers.jpg" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/first.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/java.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/first.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/probot.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/java.svg" />
 
 - Teach programming and robotics to secondary school students
 

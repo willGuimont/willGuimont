@@ -24,7 +24,7 @@
 ### Virtual and Augmented Reality Research Intern @ [Bentley Systems](https://www.bentley.com/en) (Summer of 2019)
 <img height="64" width="275" src="https://github.com/willGuimont/willGuimont/blob/master/img/bentley.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/visualstudio.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />
 
 - Computer vision
 - Worked on applying AR and VR to infrastructure workflows
@@ -34,7 +34,6 @@
 <img height="64" width="248" src="https://github.com/willGuimont/willGuimont/blob/master/img/olympus.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/opengl.svg" />
- <img height="32" width="32" src="https://simpleicons.org/icons/visualstudio.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
 
 - Computer vision
 - Analysis of ultrasound inspection data
@@ -43,7 +42,7 @@
 ### Automation Developper @ [Devoray](https://www.devoray.com/) (Summer of 2015, Winter of 2016 and Winter of 2017)
 <img height="64" width="264" src="https://github.com/willGuimont/willGuimont/blob/master/img/devoray.webp" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
 
 - Computer vision
 - Automation of industrial machines
@@ -53,6 +52,8 @@
 ## Volunteering
 ### Programming Mentor @ My local secondary school's [FIRST](https://www.firstinspires.org/robotics/frc) robotics team (2015-...)
 <img height="100" width="100" src="https://github.com/willGuimont/willGuimont/blob/master/img/chevaliers.jpg" />
+
+<img height="32" width="32" src="https://simpleicons.org/icons/first.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/java.svg" />
 
 - Teach programming and robotics to secondary school students
 

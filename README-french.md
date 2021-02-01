@@ -5,17 +5,18 @@
 
 William Guimont-Martin
 ======================
+william.guimont-martin.1@ulaval.ca
 
 Education
 ---------
 
--   Baccalauréat en génie logiciel, profile distinction @
+-   Baccalauréat en génie logiciel, profil distinction @
     [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 Experiences
 -----------
 
-### Stagiaire de recherche en apprentissage profond et robotique @ [Norlab](https://norlab.ulaval.ca) (Été 2020-...)
+### Stagiaire de recherche en apprentissage profond @ [Norlab](https://norlab.ulaval.ca) (Été 2020-...)
 
 -   Application de l'apprentissage profond à des données de LiDAR
 -   Détection d'objet
@@ -43,6 +44,7 @@ Experiences
 Bénévolat
 ------------
 
-### Mentor en programmation @ Équipe de robotique [FIRST](https://www.firstinspires.org/robotics/frc) Les Chevaliers 5440 (2015-...)
+### Mentor en programmation @ Équipe de robotique [FIRST](https://www.firstinspires.org/robotics/frc) Les Chevaliers (2015-...)
 
 -  Enseigner la programmation et la robotique à des étudiants du secondaire
+

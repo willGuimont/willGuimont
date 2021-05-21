@@ -8,14 +8,16 @@
 - Programming languages
 
 ## Education
-- Bachelor Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
+- Master's Degree in Computer Science, Research in Deep Learning and 3D sensors for autonomous vehicules @ [Université Laval](https://www.ulaval.ca/) (2021-...) 
+- Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
-### Corrector for [GLO-2003](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-2003-introduction-aux-processus-du-genie-logiciel.html) @ [Université Laval](https://www.ulaval.ca/) (Winter 2021)
+### Teaching Assistant for [GLO-2003](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-2003-introduction-aux-processus-du-genie-logiciel.html) @ [Université Laval](https://www.ulaval.ca/) (Winter 2021)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
 - Correction of programming homeworks axed on the software engineering process and software architecture
 - Tutoring for teams
+- Building new course material
 
 ### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer 2020- Autumn 2020)
 <img height="64" width="207" src="https://github.com/willGuimont/willGuimont/blob/master/img/norlab.png" />

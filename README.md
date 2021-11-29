@@ -18,7 +18,7 @@
 <img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
 
 Apprentissage par réseaux de neurones profonds
-- Give lab presentation
+- In charge of giving laboratories
 - Correction
 - Participating in the elaboration of homeworks
 

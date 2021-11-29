@@ -12,10 +12,21 @@
 - Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
+### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021)
+<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
+
+<img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+
+Apprentissage par réseaux de neurones profonds
+- Give lab presentation
+- Correction
+- Participating in the elaboration of homeworks
+
 ### Teaching Assistant for [GLO-2003](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-2003-introduction-aux-processus-du-genie-logiciel.html) @ [Université Laval](https://www.ulaval.ca/) (Winter 2021)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/java.svg" />
+Introduction aux processus du génie logiciel
 
 - Correction of programming homeworks axed on the software engineering process and software architecture
 - Tutoring for teams

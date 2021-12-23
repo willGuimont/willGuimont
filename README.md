@@ -12,6 +12,18 @@
 - Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
+### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022)
+<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
+
+<img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+
+Introduction à la robotique mobile
+- In charge of giving laboratories
+- Correction
+- Building new course material
+- Migrating laboratory code to a simulator using ([ROS](https://www.ros.org/))
+- Participating in the elaboration of homeworks
+
 ### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 

@@ -90,7 +90,7 @@ Introduction aux processus du génie logiciel
 
 - Teach programming and robotics to secondary school students
 
-![willGuimont Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willGuimont&langs_count=10&layout=compact&hide=jupyter+notebook,scss,html,cmake&theme=radical)
+![willGuimont Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willGuimont&langs_count=10&layout=compact&hide=jupyter+notebook,scss,html,cmake,makefile&theme=radical)
 ![willGuimont GitHub Stats](https://github-readme-stats.vercel.app/api?username=willGuimont&count_private=true&theme=radical&show_icons=true)
 
 <details id="extras">

@@ -21,7 +21,8 @@ Introduction à la robotique mobile
 - In charge of giving laboratories
 - Correction
 - Building new course material
-- Migrating laboratory code to a simulator using ([ROS](https://www.ros.org/))
+- Migrating laboratory code to a simulator using [ROS](https://www.ros.org/) and [Gazebo](https://gazebosim.org/home)
+- Gave a class on Kalman Filters
 - Participating in the elaboration of homeworks
 
 ### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021)

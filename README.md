@@ -38,7 +38,7 @@ Apprentissage par réseaux de neurones profonds
 ### Teaching Assistant for [GLO-2003](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-2003-introduction-aux-processus-du-genie-logiciel.html) @ [Université Laval](https://www.ulaval.ca/) (Winter 2021)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/java.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/openjdk.svg" />
 Introduction aux processus du génie logiciel
 
 - Correction of programming homeworks axed on the software engineering process and software architecture
@@ -87,7 +87,7 @@ Introduction aux processus du génie logiciel
 ### Programming Mentor @ My local secondary school's [FIRST](https://www.firstinspires.org/robotics/frc) robotics team (2015-...)
 <img height="100" width="100" src="https://github.com/willGuimont/willGuimont/blob/master/img/chevaliers.jpg" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/first.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/probot.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/java.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/first.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/probot.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/openjdk.svg" />
 
 - Teach programming and robotics to secondary school students
 

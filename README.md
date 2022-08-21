@@ -12,7 +12,7 @@
 - Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
-### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022)
+### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
@@ -45,7 +45,7 @@ Introduction aux processus du génie logiciel
 - Tutoring for teams
 - Building new course material
 
-### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer 2020- Autumn 2020)
+### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer 2020 - Autumn 2020)
 <img height="64" width="207" src="https://github.com/willGuimont/willGuimont/blob/master/img/norlab.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/vim.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/mendeley.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/googlescholar.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />

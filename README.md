@@ -61,6 +61,8 @@ Introduction aux processus du génie logiciel
 
 <img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />
 
+- Allowed patent: Côté S and Guimont-Martin W, "Aerial Cable Detection and 3D Modeling from Images". US patent allowed.
+- Applied research
 - Computer vision
 - Worked on applying AR and VR to infrastructure workflows
 - Photogrammetry
@@ -70,6 +72,7 @@ Introduction aux processus du génie logiciel
 
 <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/opengl.svg" />
 
+- Applied research
 - Computer vision
 - Analysis of ultrasound inspection data
 - Visualization of 3D ultrasound data
@@ -82,7 +85,7 @@ Introduction aux processus du génie logiciel
 - Computer vision
 - Automation of industrial machines
 - Programmable logic controller (PLC)
-
+- Robotics
 
 ## Volunteering
 ### Programming Mentor @ My local secondary school's [FIRST](https://www.firstinspires.org/robotics/frc) robotics team (2015-...)

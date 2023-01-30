@@ -12,6 +12,17 @@
 - Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
+### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023)
+<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
+
+<img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+
+Apprentissage par réseaux de neurones profonds
+- In charge of giving laboratories
+- Correction
+- New pedagogical material for the course
+- Managing a computing cluster for the course
+
 ### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
@@ -23,17 +34,7 @@ Introduction à la robotique mobile
 - Building new course material
 - Migrating laboratory code to a simulator using [ROS](https://www.ros.org/) and [Gazebo](https://gazebosim.org/home)
 - Gave a class on Kalman Filters
-- Participating in the elaboration of homeworks
-
-### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021)
-<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
-
-<img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
-
-Apprentissage par réseaux de neurones profonds
-- In charge of giving laboratories
-- Correction
-- Participating in the elaboration of homeworks
+- New pedagogical material for the course
 
 ### Teaching Assistant for [GLO-2003](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-2003-introduction-aux-processus-du-genie-logiciel.html) @ [Université Laval](https://www.ulaval.ca/) (Winter 2021)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />

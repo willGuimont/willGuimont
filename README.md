@@ -12,6 +12,11 @@
 - Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
+### Teaching Assistant for improving computer science degrees @ [Université Laval](https://www.ulaval.ca/) (Summer 2023)
+<img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/docker.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
+- New pedagogical material
+- Improvements to existing courses
+
 ### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
@@ -61,7 +66,7 @@ Introduction aux processus du génie logiciel
 
 <img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />
 
-- Allowed patent: Côté S and Guimont-Martin W, "Aerial Cable Detection and 3D Modeling from Images". US patent allowed.
+- Patent: [Côté S and Guimont-Martin W, "Aerial Cable Detection and 3D Modeling from Images"](https://patents.google.com/patent/US11521357B1/en)
 - Applied research
 - Computer vision
 - Worked on applying AR and VR to infrastructure workflows

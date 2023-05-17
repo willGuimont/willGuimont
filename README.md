@@ -14,7 +14,7 @@
 ## Experiences
 ### Teaching Assistant for improving computer science degrees @ [Université Laval](https://www.ulaval.ca/) (Summer 2023)
 <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/docker.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
-- New pedagogical material
+- New pedagogical material about Bash scripting and Docker
 - Improvements to existing courses
 
 ### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023)

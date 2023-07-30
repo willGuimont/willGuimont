@@ -8,7 +8,8 @@
 - Programming languages
 
 ## Education
-- Master's Degree in Computer Science, Research in Deep Learning and 3D sensors for autonomous vehicules @ [Université Laval](https://www.ulaval.ca/) (2021-...) 
+- Ph.D. in Computer Science, Research in Deep Learning and 3D sensors for autonomous vehicules @ [Université Laval](https://www.ulaval.ca/) (2023-...) 
+- Master's Degree in Computer Science, Research in Deep Learning and 3D sensors for autonomous vehicules @ [Université Laval](https://www.ulaval.ca/) (2021-2023) 
 - Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences

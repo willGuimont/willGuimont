@@ -18,7 +18,7 @@
 - New pedagogical material about Bash scripting and Docker
 - Improvements to existing courses
 
-### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023)
+### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023, 2024)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
@@ -29,7 +29,7 @@ Apprentissage par réseaux de neurones profonds
 - New pedagogical material for the course
 - Managing a computing cluster for the course
 
-### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022)
+### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022, 2023)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />

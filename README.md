@@ -53,6 +53,8 @@ Introduction aux processus du génie logiciel
 - Correction of programming homeworks axed on the software engineering process and software architecture
 - Tutoring for teams
 - Building new course material
+- [Exercice TDD String Calculator](https://github.com/glo2003/Exercice-TDD-string-calculator) ([Version courte](https://github.com/glo2003/Exercice-CleanCode-Refactoring-Court))
+- [Refactoring](https://github.com/glo2003/Exercice-CleanCode-Refactoring)
 
 ### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer 2020 - Autumn 2020)
 <img height="64" width="207" src="https://github.com/willGuimont/willGuimont/blob/master/img/norlab.png" />

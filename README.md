@@ -17,6 +17,8 @@
 <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/docker.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
 - New pedagogical material about Bash scripting and Docker
 - Improvements to existing courses
+- [Atelier - Écriture de scripts et automatisation de tâches de développement logiciel](https://github.com/ulavalIFTGLOateliers/IFT2001-Scripting)
+- [Atelier - Conteneurisation de projets de développement logiciel avec Docker](https://github.com/ulavalIFTGLOateliers/IFT2001-Docker)
 
 ### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023, 2024)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />

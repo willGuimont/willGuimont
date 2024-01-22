@@ -17,6 +17,7 @@
 <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/docker.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
 - New pedagogical material about Bash scripting and Docker
 - Improvements to existing courses
+- Ateliers en développement logiciel
 - [Atelier - Écriture de scripts et automatisation de tâches de développement logiciel](https://github.com/ulavalIFTGLOateliers/IFT2001-Scripting)
 - [Atelier - Conteneurisation de projets de développement logiciel avec Docker](https://github.com/ulavalIFTGLOateliers/IFT2001-Docker)
 

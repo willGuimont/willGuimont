@@ -13,6 +13,38 @@
 - Bachelor's Degree in Software Engineering, distinction profile @ [Université Laval](https://www.ulaval.ca/) (2017-2021)
 
 ## Experiences
+### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023, 2024)
+<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
+
+<img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+
+Graduate-level course on deep learning (Apprentissage par réseaux de neurones profonds)
+- Conducting laboratory session
+- Developing fresh educational content for the course
+- Overseeing the operation of a computing cluster dedicated to the course
+- Correction and providing feedback on assignments
+
+### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022, 2023)
+<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
+
+<img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+
+Graduate-level course on mobile robotics (Introduction à la robotique mobile)
+- Conducting laboratory session
+- Developing fresh educational content for the course
+- Overseeing the operation of a computing cluster dedicated to the course
+- Correction and providing feedback on assignments
+- Migrating laboratory code to a simulator using [ROS](https://www.ros.org/) and [Gazebo](https://gazebosim.org/home)
+- Taught a class on Kalman filters
+
+### Teaching Assistant for [GLO-3013](https://www.ulaval.ca/etudes/cours/glo-3013-projet-de-conception-multidisciplinaire) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2023)
+<img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+
+Undergraduate-level course in which the students have to develop a robot autonomously solving various tasks (Projet de conception multidisciplinaire)
+- Participated in the course redesign
+- Build an autonomous robot using ROS2
+- Using LiDAR for autonomous navigation
+
 ### Teaching Assistant for improving computer science degrees @ [Université Laval](https://www.ulaval.ca/) (Summer 2023)
 <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/docker.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
 - New pedagogical material about Bash scripting and Docker
@@ -20,30 +52,6 @@
 - Ateliers en développement logiciel
 - [Atelier - Écriture de scripts et automatisation de tâches de développement logiciel](https://github.com/ulavalIFTGLOateliers/IFT2001-Scripting)
 - [Atelier - Conteneurisation de projets de développement logiciel avec Docker](https://github.com/ulavalIFTGLOateliers/IFT2001-Docker)
-
-### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023, 2024)
-<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
-
-<img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
-
-Apprentissage par réseaux de neurones profonds
-- In charge of giving laboratories
-- Correction
-- New pedagogical material for the course
-- Managing a computing cluster for the course
-
-### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022, 2023)
-<img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
-
-<img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
-
-Introduction à la robotique mobile
-- In charge of giving laboratories
-- Correction
-- Building new course material
-- Migrating laboratory code to a simulator using [ROS](https://www.ros.org/) and [Gazebo](https://gazebosim.org/home)
-- Gave a class on Kalman Filters
-- New pedagogical material for the course
 
 ### Teaching Assistant for [GLO-2003](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-2003-introduction-aux-processus-du-genie-logiciel.html) @ [Université Laval](https://www.ulaval.ca/) (Winter 2021)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />

@@ -80,7 +80,7 @@ Introduction aux processus du génie logiciel
 ### Virtual and Augmented Reality Research Intern @ [Bentley Systems](https://www.bentley.com/en) (Summer 2019)
 <img height="64" width="275" src="https://github.com/willGuimont/willGuimont/blob/master/img/bentley.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://www.svgrepo.com/show/305920/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />
 
 - Patent: [Côté S and Guimont-Martin W, "Aerial Cable Detection and 3D Modeling from Images"](https://patents.google.com/patent/US11521357B1/en)
 - Applied research
@@ -91,7 +91,7 @@ Introduction aux processus du génie logiciel
 ### Software Engineering Intern @ [Olympus IMS](https://www.olympus-ims.com/en/) (Summer 2018)
 <img height="64" width="248" src="https://github.com/willGuimont/willGuimont/blob/master/img/olympus.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/opengl.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://www.svgrepo.com/show/305920/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/opengl.svg" />
 
 - Applied research
 - Computer vision

@@ -127,5 +127,6 @@ Introduction aux processus du génie logiciel
     <li>js bad</li>
     <li>rust good</li>
     <li>a monad is just a monoid in the category of endofunctors, what's the problem?</li>
+    <li><a hidden rel="me" href="https://mastodon.social/@willGuimont">Mastodon</a></li>
   </ul>
 </details>

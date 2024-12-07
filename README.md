@@ -26,7 +26,7 @@ Graduate-level course on deep learning (Apprentissage par réseaux de neurones p
 - Overseeing the operation of a computing cluster dedicated to the course
 - Correction and providing feedback on assignments
 
-### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022, 2023)
+### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022, 2023, 2024)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
 <img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />

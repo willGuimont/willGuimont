@@ -2,6 +2,11 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q2VZ2VC)
 
+I am currently a Ph.D. student at Université Laval in the [Northern Robotics Laboratory (Norlab)](https://norlab.ulaval.ca/people/w_guimont-martin/).
+I mostly work on applying deep learning techniques in innovative ways to solve problems in mobile robotics and autonomous systems.
+In addition to my research, I am a teaching assistant at Université Laval for graduate-level courses: [GLO-7030: Apprentissage par réseaux de neurones profonds](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7021: Introduction à la robotique mobile](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile).
+I am also a Candidate to the engineering profession (CEP) in Canada and an [inventor](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sZIyj3IAAAAJ&citation_for_view=sZIyj3IAAAAJ:qjMakFHDy7sC).
+
 ## Interests
 - Deep learning
 - Robotics
@@ -119,6 +124,19 @@ Introduction aux processus du génie logiciel
 
 ![willGuimont Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willGuimont&langs_count=10&layout=compact&hide=jupyter+notebook,scss,html,cmake,makefile&theme=radical)
 ![willGuimont GitHub Stats](https://github-readme-stats.vercel.app/api?username=willGuimont&count_private=true&theme=radical&show_icons=true)
+
+## Around the web
+
+Here are some of my profiles on the web:
+
+- [GitHub](https://github.com/willGuimont)
+- [YouTube](https://www.youtube.com/@willGuimont)
+- [LinkedIn](https://www.linkedin.com/in/william-guimont-martin/)
+- [Thingiverse](https://www.thingiverse.com/wigum/designs)
+- [Cults3d](https://cults3d.com/en/users/wigum/)
+- [Instagram](https://www.instagram.com/wilguimont/)
+- [ResearchGate](https://www.researchgate.net/profile/William-Guimont-Martin)
+- [Mastodon](https://mastodon.social/@willGuimont)
 
 <details id="extras">
   <summary><b>Extras</b></summary>

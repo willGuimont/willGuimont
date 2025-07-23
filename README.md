@@ -23,7 +23,7 @@ I am also a Candidate to the engineering profession (CEP) in Canada and an [inve
 ### Teaching Assistant for [GLO-4030](https://www.ulaval.ca/etudes/cours/glo-4030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7030](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2021, Winter 2023, 2024, 2025)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge)
 
 Graduate-level course on deep learning (Apprentissage par réseaux de neurones profonds)
 - TAing for practical lab sessions
@@ -34,7 +34,7 @@ Graduate-level course on deep learning (Apprentissage par réseaux de neurones p
 ### Teaching Assistant for [GLO-4001](https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile) and [GLO-7021](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile) @ [Université Laval](https://www.ulaval.ca/) (Winter 2022 - Autumn 2022, 2023, 2024)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+![ROS 1/2](https://img.shields.io/badge/ROS%202-333?logo=ROS&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge)
 
 Graduate-level course on mobile robotics (Introduction à la robotique mobile)
 - TAing for practical lab sessions
@@ -45,7 +45,7 @@ Graduate-level course on mobile robotics (Introduction à la robotique mobile)
 - Taught a class on Kalman filters
 
 ### Teaching Assistant for [GLO-3013](https://www.ulaval.ca/etudes/cours/glo-3013-projet-de-conception-multidisciplinaire) @ [Université Laval](https://www.ulaval.ca/) (Autumn 2023)
-<img height="32" width="32" src="https://simpleicons.org/icons/ros.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+![ROS 2](https://img.shields.io/badge/ROS-333?logo=ROS&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge)
 
 Undergraduate-level course in which the students have to develop a robot autonomously solving various tasks (Projet de conception multidisciplinaire)
 - Participated in the course redesign
@@ -53,7 +53,7 @@ Undergraduate-level course in which the students have to develop a robot autonom
 - Using LiDAR for autonomous navigation
 
 ### Teaching Assistant for improving computer science degrees @ [Université Laval](https://www.ulaval.ca/) (Summer 2023)
-<img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/docker.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
+![Bash](https://img.shields.io/badge/Bash-333?logo=gnubash&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-333?logo=docker&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&style=for-the-badge)
 - New pedagogical material about Bash scripting and Docker
 - Improvements to existing courses
 - Ateliers en développement logiciel
@@ -63,7 +63,8 @@ Undergraduate-level course in which the students have to develop a robot autonom
 ### Teaching Assistant for [GLO-2003](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-2003-introduction-aux-processus-du-genie-logiciel.html) @ [Université Laval](https://www.ulaval.ca/) (Winter 2021)
 <img height="64" src="https://github.com/willGuimont/willGuimont/blob/master/img/ulaval.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/openjdk.svg" />
+![Java](https://img.shields.io/badge/Java-333?logo=openjdk&style=for-the-badge)
+
 Introduction aux processus du génie logiciel
 
 - Correction of programming homeworks axed on the software engineering process and software architecture
@@ -76,7 +77,7 @@ Introduction aux processus du génie logiciel
 ### Deep Learning and Robotics Research Intern @ [Norlab](https://norlab.ulaval.ca) (Summer 2020 - Autumn 2020)
 <img height="64" width="207" src="https://github.com/willGuimont/willGuimont/blob/master/img/norlab.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/pytorch.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/gnubash.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/vim.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/mendeley.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/googlescholar.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
+![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-333?logo=gnubash&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&style=for-the-badge) ![Vim](https://img.shields.io/badge/Vim-333?logo=vim&style=for-the-badge) ![Mendeley](https://img.shields.io/badge/Mendeley-333?logo=mendeley&style=for-the-badge) ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-333?logo=googlescholar&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-333?logo=git&style=for-the-badge) ![LaTeX](https://img.shields.io/badge/LaTeX-333?logo=latex&style=for-the-badge)
 
 - Application of deep learning to LiDAR data
 - Object detection
@@ -86,7 +87,7 @@ Introduction aux processus du génie logiciel
 ### Virtual and Augmented Reality Research Intern @ [Bentley Systems](https://www.bentley.com/en) (Summer 2019)
 <img height="64" width="275" src="https://github.com/willGuimont/willGuimont/blob/master/img/bentley.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" /> <img height="32" width="32" src="https://www.svgrepo.com/show/305920/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/octave.svg" />
+![Unity](https://img.shields.io/badge/Unity-333?logo=unity&style=for-the-badge) ![CSharp](https://img.shields.io/badge/C%23-333?logo=dotnet&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge) ![Octave](https://img.shields.io/badge/Octave-333?logo=octave&style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-333?logo=opencv&style=for-the-badge)
 
 - Patent: [Côté S and Guimont-Martin W, "Aerial Cable Detection and 3D Modeling from Images"](https://patents.google.com/patent/US11521357B1/en)
 - Applied research
@@ -97,7 +98,7 @@ Introduction aux processus du génie logiciel
 ### Software Engineering Intern @ [Olympus IMS](https://www.olympus-ims.com/en/) (Summer 2018)
 <img height="64" width="248" src="https://github.com/willGuimont/willGuimont/blob/master/img/olympus.png" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://www.svgrepo.com/show/305920/csharp.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/opengl.svg" />
+![C++](https://img.shields.io/badge/C++-333?logo=cplusplus&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge) ![CSharp](https://img.shields.io/badge/C%23-333?logo=dotnet&style=for-the-badge) ![F#](https://img.shields.io/badge/F%23-333?logo=fsharp&style=for-the-badge) ![OpenGL](https://img.shields.io/badge/OpenGL-333?logo=opengl&style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-333?logo=opencv&style=for-the-badge)
 
 - Applied research
 - Computer vision
@@ -107,7 +108,7 @@ Introduction aux processus du génie logiciel
 ### Automation Developper @ [Devoray](https://www.devoray.com/) (Summer of 2015, Winter of 2016 and Winter 2017)
 <img height="64" width="264" src="https://github.com/willGuimont/willGuimont/blob/master/img/devoray.webp" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" />
+![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-333?logo=cplusplus&style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-333?logo=opencv&style=for-the-badge)
 
 - Computer vision
 - Automation of industrial machines
@@ -118,7 +119,7 @@ Introduction aux processus du génie logiciel
 ### Programming Mentor @ My local secondary school's [FIRST](https://www.firstinspires.org/robotics/frc) robotics team (2015-...)
 <img height="100" width="100" src="https://github.com/willGuimont/willGuimont/blob/master/img/chevaliers.jpg" />
 
-<img height="32" width="32" src="https://simpleicons.org/icons/first.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/probot.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/openjdk.svg" />
+![FIRST](https://img.shields.io/badge/FIRST-333?logo=first&style=for-the-badge) ![Robot](https://img.shields.io/badge/Robotics-333?logo=probot&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-333?logo=openjdk&style=for-the-badge)
 
 - Teach programming and robotics to secondary school students
 
@@ -146,6 +147,5 @@ Here are some of my profiles on the web:
     <li>js bad</li>
     <li>rust good</li>
     <li>a monad is just a monoid in the category of endofunctors, what's the problem?</li>
-    <li><a hidden rel="me" href="https://mastodon.social/@willGuimont">Mastodon</a></li>
   </ul>
 </details>

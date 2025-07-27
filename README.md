@@ -1,7 +1,5 @@
 # William Guimont-Martin
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q2VZ2VC)
-
 I am currently a Ph.D. student at Université Laval in the [Northern Robotics Laboratory (Norlab)](https://norlab.ulaval.ca/people/w_guimont-martin/).
 I mostly work on applying deep learning techniques in innovative ways to solve problems in mobile robotics and autonomous systems.
 In addition to my research, I am a teaching assistant at Université Laval for graduate-level courses: [GLO-7030: Apprentissage par réseaux de neurones profonds](https://www.ulaval.ca/etudes/cours/glo-7030-apprentissage-par-reseaux-de-neurones-profonds) and [GLO-7021: Introduction à la robotique mobile](https://www.ulaval.ca/etudes/cours/glo-7021-introduction-a-la-robotique-mobile).
@@ -138,6 +136,8 @@ Here are some of my profiles on the web:
 - [Instagram](https://www.instagram.com/wilguimont/)
 - [ResearchGate](https://www.researchgate.net/profile/William-Guimont-Martin)
 - [Mastodon](https://mastodon.social/@willGuimont)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q2VZ2VC)
 
 <details id="extras">
   <summary><b>Extras</b></summary>
